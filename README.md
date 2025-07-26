@@ -1,6 +1,7 @@
-# Visualization of Dijkstra's algorithm
-4th Semester Design and Analysis of Algorithms Project
-<br>
+Documentation by Yug Jindal.
+
+This repo provides the implementation and visualisation of Dijkstra's algorithm.
+
 
 Dijkstra's algorithm is used to find the shortest path from a single source vertex to all other vertices in a given graph.
 <br>
